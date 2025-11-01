@@ -9,7 +9,7 @@
 <p align="center">
   🌱 Web Development Student at <strong>Saylani Mass IT Training</strong>  
   <br>
-  💻 Learning <strong>HTML</strong> and <strong>CSS</strong>  
+  💻 Learning <strong>Web Development.</strong> 
   <br>
   🚀 Passionate about creating functional, responsive websites that convert.  
 </p>
