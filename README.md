@@ -29,7 +29,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,github,vscode,javascript" />
 </p>
 
 ---
@@ -37,13 +37,13 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/abdulghaffar9">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/abdulghaffarr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:abdulghaffar4324@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
