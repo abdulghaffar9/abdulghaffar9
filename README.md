@@ -1,17 +1,17 @@
 <!-- 👇 Your Cover Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/cover.png" alt="Cover Image" width="100%" />
+  <img src="https://github.com/abdulghaffar9/abdulghaffar/blob/main/github%20cover.jpg" alt="Cover Image" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Abdul Ghaffar 👋</h1>
 
 <p align="center">
   🌱 Web Development Student at <strong>Saylani Mass IT Training</strong>  
   <br>
-  💻 Currently learning <strong>HTML</strong> and <strong>CSS</strong>  
+  💻 Currently learning <strong>HTML</strong> , <strong>CSS</strong>and  <strong>Javascript</strong> 
   <br>
-  🚀 Passionate about creating beautiful, responsive websites  
+  🚀 Passionate about creating functional, responsive websites  
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile/">
