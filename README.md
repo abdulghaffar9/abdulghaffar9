@@ -19,8 +19,8 @@
 ### 🧠 About Me
 
 - 🎓 I'm currently enrolled in the **Web Development course** at Saylani Mass IT Training.  
-- 💡 I’ve completed **HTML** and **CSS** so far.  
-- 🌍 Excited to learn **JavaScript** and explore **front-end frameworks** next.  
+- 💡 I’ve completed **HTML** ,**CSS** **Javascript** so far.  
+- 🌍 Excited to learn **React js** and **front-end frameworks** next.  
 - ⚙️ I enjoy designing clean, user-friendly websites.  
 - 🎯 My goal is to become a **Full-Stack Web Developer**.
 
